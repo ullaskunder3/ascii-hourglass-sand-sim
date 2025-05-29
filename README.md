@@ -2,6 +2,8 @@
 
 A terminal-based hourglass sand simulation written in Python. Watch ASCII sand grains fall inside a simple hourglass using ANSI escape sequences.
 
+![image](https://github.com/user-attachments/assets/25a61188-e416-4445-86aa-9dab86c28afc)
+
 ## Features
 
 - Real-time sand animation with randomized falling and spreading.
